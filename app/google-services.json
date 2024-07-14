@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224042345408",
+    "project_id": "qrepoter-539cd",
+    "storage_bucket": "qrepoter-539cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224042345408:android:f394006c7340c0f8bf9e25",
+        "android_client_info": {
+          "package_name": "lk.sliit.qreporter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcSVVtK5lyAVJ-jKvRVqJoVRtbEBAE660"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
